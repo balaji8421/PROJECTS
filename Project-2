@@ -1,5 +1,4 @@
-Setup:
-ansible+git+EC2+Maven
+Setup:ansible+git+EC2+Maven
 
 
 Install "publish Over SSH" plugin and restart jenkisn if required: (Manage Jenkins > Manage Plugins > Available > Publish over SSH)
